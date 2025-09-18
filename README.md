@@ -3,6 +3,8 @@
 ## 📌 Project Overview  
 Business Insights 360 is a **business intelligence solution** built for Atliq to embed **data-driven decision-making** into their culture. The project consolidates data across **finance, sales, marketing, and supply chain** into **executive-ready dashboards** that enable faster, more transparent, and accurate insights.  
 
+Live Dashboard :- https://app.powerbi.com/view?r=eyJrIjoiODE1NzcxMWItM2RmZS00ZGFjLWEyNjEtZTRiMzdiMjVmNGZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ---
 
 ## 🛠 Situation  
